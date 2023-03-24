@@ -1,23 +1,5 @@
 # ArchLinux-install-guide
 
-🇲🇽  [ Versión en español](/README_es.md)
-
-These are the dotfiles for my Arch Linux
-
-# Table of Contents
-
-- [Arch Installation](#arch-installation)
-- [Packages](#packages)
-  - [With custom config](#with-custom-config)
-  - [Without custom config](#without-custom-config)
-- [Basic sys utils](#basic-sys-utils)
-- [BlackArch repo](#blackarch-repo)
-- [Window managers](#window-managers)
-  - [Qtile](#qtile)
-- [Configs in detail](#configs-in-detail)
-
-
-## Arch Installation
 
 ### This installation is very likely to not work for you, so just ignore this part of the readme.
 
@@ -145,4 +127,6 @@ yay -S  notification-daemon
 
 _With cargo_
 
+```bash
 cargo install toipe
+```
