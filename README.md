@@ -1,5 +1,6 @@
 # ArchLinux-install-guide
 
+This project was archived because the installation process doesn't change much and I don't plan to change or update the guide.
 
 ### This installation is very likely to not work for you, so just ignore this part of the readme.
 
